@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Branding",
+    "img": "img/portfolio/work1.jpg",
+    "title": "ABC Computing",
+    "content": "Labore et dolore magna aliqua. Ut enim ad."
+  },
+  {
+    "category": "Websites",
+    "img": "img/portfolio/work2.jpg",
+    "title": "Smith Auto",
+    "content": "Labore et dolore magna aliqua. Ut enim ad."
+  },
+  {
+    "category": "Graphic",
+    "img": "img/portfolio/work3.jpg",
+    "title": "Riverworks Tavern",
+    "content": "Labore et dolore magna aliqua. Ut enim ad."
+  },
+  {
+    "category": "design",
+    "img": "img/portfolio/work4.jpg",
+    "title": "Buddy's Designworks",
+    "content": "Labore et dolore magna aliqua. Ut enim ad."
+  },
+  {
+    "category": "Video",
+    "img": "img/portfolio/work5.jpg",
+    "title": "Enigma Widgets",
+    "content": "Labore et dolore magna aliqua. Ut enim ad."
+  },
+  {
+    "category": "Graphic",
+    "img": "img/portfolio/work6.jpg",
+    "title": "Flyaway Travel",
+    "content": "Labore et dolore magna aliqua. Ut enim ad."
+  }
+]
