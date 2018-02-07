@@ -19,11 +19,11 @@ description: "Great web agency offers high impact yet affordable web development
 baseurl: "/Airspace" # the subpath of your site, e.g. /blog
 url: "https://pulamusic.github.io/Airspace/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  pulamusic
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
 comments: true
 plugins:
   - jekyll-feed
