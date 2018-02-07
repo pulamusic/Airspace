@@ -23,7 +23,7 @@ github_username:  pulamusic
 
 # Build settings
 markdown: kramdown
-permalink: none
+permalink: pretty
 comments: true
 plugins:
   - jekyll-feed
