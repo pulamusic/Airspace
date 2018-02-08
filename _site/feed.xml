@@ -3,10 +3,10 @@
   <channel>
     <title>Great web agency</title>
     <description>Great web agency offers high impact yet affordable web development services, from web design to targeted SEO to custom web applications.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jan 2018 14:11:42 -0500</pubDate>
-    <lastBuildDate>Tue, 30 Jan 2018 14:11:42 -0500</lastBuildDate>
+    <link>http://localhost:4000/Airspace/</link>
+    <atom:link href="http://localhost:4000/Airspace/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Feb 2018 18:10:46 -0500</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2018 18:10:46 -0500</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;Nunc blandit massa ac justo fermentum, nec pretium elit interdum. Vestibulum mattis malesuada nisl, in rutrum dolor. Ut nec risus neque. Aliquam egestas enim ut libero finibus sollicitudin. Sed lacinia mi enim, non semper est porta vitae. Integer ultrices, nisl sit amet congue elementum, ex justo viverra massa, ac tincidunt risus turpis nec magna. Morbi eu dignissim lacus. Mauris et laoreet lacus. Phasellus et massa lectus. Nam blandit, sapien sed maximus mattis, lectus arcu pharetra enim, non aliquam ipsum neque ut risus. Nulla est lorem, tincidunt eu congue non, laoreet in ligula. Cras laoreet bibendum ultrices. Nullam ac aliquet lorem.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Jan 2018 16:29:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/why-use-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/why-use-jekyll.html</guid>
+        <link>http://localhost:4000/Airspace/jekyll/why-use-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Airspace/jekyll/why-use-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -43,8 +43,8 @@
 &lt;p&gt;Nunc blandit massa ac justo fermentum, nec pretium elit interdum. Vestibulum mattis malesuada nisl, in rutrum dolor. Ut nec risus neque. Aliquam egestas enim ut libero finibus sollicitudin. Sed lacinia mi enim, non semper est porta vitae. Integer ultrices, nisl sit amet congue elementum, ex justo viverra massa, ac tincidunt risus turpis nec magna. Morbi eu dignissim lacus. Mauris et laoreet lacus. Phasellus et massa lectus. Nam blandit, sapien sed maximus mattis, lectus arcu pharetra enim, non aliquam ipsum neque ut risus. Nulla est lorem, tincidunt eu congue non, laoreet in ligula. Cras laoreet bibendum ultrices. Nullam ac aliquet lorem.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Jan 2018 16:29:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/ultra-fast-blog.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/ultra-fast-blog.html</guid>
+        <link>http://localhost:4000/Airspace/jekyll/ultra-fast-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Airspace/jekyll/ultra-fast-blog.html</guid>
         
         
         <category>jekyll</category>
@@ -64,8 +64,8 @@
 &lt;p&gt;Nunc blandit massa ac justo fermentum, nec pretium elit interdum. Vestibulum mattis malesuada nisl, in rutrum dolor. Ut nec risus neque. Aliquam egestas enim ut libero finibus sollicitudin. Sed lacinia mi enim, non semper est porta vitae. Integer ultrices, nisl sit amet congue elementum, ex justo viverra massa, ac tincidunt risus turpis nec magna. Morbi eu dignissim lacus. Mauris et laoreet lacus. Phasellus et massa lectus. Nam blandit, sapien sed maximus mattis, lectus arcu pharetra enim, non aliquam ipsum neque ut risus. Nulla est lorem, tincidunt eu congue non, laoreet in ligula. Cras laoreet bibendum ultrices. Nullam ac aliquet lorem.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Jan 2018 16:29:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/learning-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/learning-jekyll.html</guid>
+        <link>http://localhost:4000/Airspace/jekyll/learning-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Airspace/jekyll/learning-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -87,8 +87,8 @@
 &lt;p&gt;Nunc blandit massa ac justo fermentum, nec pretium elit interdum. Vestibulum mattis malesuada nisl, in rutrum dolor. Ut nec risus neque. Aliquam egestas enim ut libero finibus sollicitudin. Sed lacinia mi enim, non semper est porta vitae. Integer ultrices, nisl sit amet congue elementum, ex justo viverra massa, ac tincidunt risus turpis nec magna. Morbi eu dignissim lacus. Mauris et laoreet lacus. Phasellus et massa lectus. Nam blandit, sapien sed maximus mattis, lectus arcu pharetra enim, non aliquam ipsum neque ut risus. Nulla est lorem, tincidunt eu congue non, laoreet in ligula. Cras laoreet bibendum ultrices. Nullam ac aliquet lorem.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Jan 2018 16:29:00 -0500</pubDate>
-        <link>http://localhost:4000/jekyll/benefits-of-static-site-generators.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/benefits-of-static-site-generators.html</guid>
+        <link>http://localhost:4000/Airspace/jekyll/benefits-of-static-site-generators.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Airspace/jekyll/benefits-of-static-site-generators.html</guid>
         
         
         <category>jekyll</category>

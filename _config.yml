@@ -17,7 +17,7 @@ title: Great web agency
 email: your-email@example.com
 description: "Great web agency offers high impact yet affordable web development services, from web design to targeted SEO to custom web applications."
 baseurl: "/Airspace" # the subpath of your site, e.g. /blog
-url: "https://pulamusic.github.io/Airspace/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pulamusic.github.io/Airspace" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
