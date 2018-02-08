@@ -23,7 +23,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-permalink: none
+permalink: pretty
 comments: true
 plugins:
   - jekyll-feed
